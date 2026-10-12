@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <name><![CDATA[skyneta11ypdfremediation]]></name>
+  <displayName><![CDATA[SkynetA11y PDF Remediation]]></displayName>
+  <version><![CDATA[1.0.0]]></version>
+  <description><![CDATA[AI-powered PDF accessibility remediation - upload PDFs, scan website PDFs, and download remediated files.]]></description>
+  <author><![CDATA[Skynet Technologies USA LLC]]></author>
+  <author_uri/>
+  <tab><![CDATA[front_office_features]]></tab>
+  <confirmUninstall/>
+  <is_configurable>1</is_configurable>
+  <need_instance>0</need_instance>
+  <limited_countries/>
+</module>
